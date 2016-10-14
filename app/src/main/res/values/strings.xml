@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToastAndSound</string>
+    <string name="texto">Exemplo TOAST SOUND</string>
+    <string name="toast1">Toast curto</string>
+    <string name="toast2">Toast Longo</string>
+    <string name="sound">Som</string>
+</resources>
